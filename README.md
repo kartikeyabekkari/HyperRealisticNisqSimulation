@@ -1,1 +1,1 @@
-# Hyper Realistic Nisq Simulation
+# Hyper-Realistic Nisq Simulation
