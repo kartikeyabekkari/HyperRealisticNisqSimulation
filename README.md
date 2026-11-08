@@ -66,7 +66,7 @@ When a random error occurs on a qubit during a moment that contains multi-qubit 
 
 The coupling energy decays exponentially with distance, and that coupling drives a Rabi-style oscillation:
 
-$$\gamma(d) = g_0\, e^{-d/\sigma}$$
+$$\gamma(d) = g_0\ e^{-d/\sigma}$$
 
 $$P(t) = \frac{\gamma(d)^2}{\gamma(d)^2 + \frac{\Delta f^2}{4}} \; \sin^2\!\left( t \sqrt{\gamma(d)^2 + \frac{\Delta f^2}{4}} \right)$$
 
