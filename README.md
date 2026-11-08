@@ -185,8 +185,6 @@ Trained on low-noise data plus a small amount of real-world-noise data, and test
 
 How to read this: the match rate compares each corrected shot against a separately sampled ideal shot. For this circuit a perfect result scores about 50%, not 100%, so 50.9% means the corrected output distribution is essentially indistinguishable from the ideal one.
 
-![Before and after ML correction](docs/before_after.png)
-
 The noise parameters used for training and testing are listed in the poster (Table 1) and in `LOW_NOISE_CONFIG` and `REAL_WORLD_CONFIG` in the code.
 
 ## Limitations
