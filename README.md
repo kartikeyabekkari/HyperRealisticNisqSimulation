@@ -174,8 +174,6 @@ The simulator was calibrated to published Google Willow chip specifications and 
 
 Adding the layered noise and crosstalk model moved the simulated fidelity much closer to the hardware benchmark.
 
-![Basic vs. hyper-realistic noise simulation](docs/simulation_comparison.png)
-
 ### ML error mitigation
 
 Trained on low-noise data plus a small amount of real-world-noise data, and tested on a separate held-out real-world-noise set (72 seeds, 150 samples per seed; 158 training samples, 29 holdout, 67 test).
